@@ -13,7 +13,7 @@
 <table border="0">
 <tr>
 <td width="30%" align="center" valign="middle">
-<img src="./avatar.png" width="200" alt="Monum Hashmi"/>
+<img src="./avatar.png" width="240" alt="Monum Hashmi"/>
 </td>
 <td width="70%" valign="middle">
 
